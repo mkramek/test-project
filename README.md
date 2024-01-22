@@ -2,4 +2,4 @@
 
 ## Do sprawdzenia, jak działa GitHub
 
-Testowy komentarz
+`Testowy komentarz`
